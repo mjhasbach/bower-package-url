@@ -1,6 +1,6 @@
 {
   "name": "bower-package-url",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the repository URL associated with a bower package name",
   "license": "MIT",
   "homepage": "https://github.com/mjhasbach/bower-package-url",
