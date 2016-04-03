@@ -1,14 +1,16 @@
 <a name="module_bowerPackageURL"></a>
+
 ## bowerPackageURL
 **Author:** Matthew Hasbach  
 **License**: MIT  
 **Copyright**: Matthew Hasbach 2015  
 
 * [bowerPackageURL](#module_bowerPackageURL)
-  * [bowerPackageURL(packageName, cb)](#exp_module_bowerPackageURL--bowerPackageURL) ⏏
-    * [~bowerPackageURLCallback](#module_bowerPackageURL--bowerPackageURL..bowerPackageURLCallback) : <code>function</code>
+    * [bowerPackageURL(packageName, cb)](#exp_module_bowerPackageURL--bowerPackageURL) ⏏
+        * [~bowerPackageURLCallback](#module_bowerPackageURL--bowerPackageURL..bowerPackageURLCallback) : <code>function</code>
 
 <a name="exp_module_bowerPackageURL--bowerPackageURL"></a>
+
 ### bowerPackageURL(packageName, cb) ⏏
 Get the repository URL associated with a bower package name
 
@@ -27,6 +29,7 @@ bowerPackageURL('lodash', function(err, url) {
 });
 ```
 <a name="module_bowerPackageURL--bowerPackageURL..bowerPackageURLCallback"></a>
+
 #### bowerPackageURL~bowerPackageURLCallback : <code>function</code>
 The bowerPackageURL callback
 
