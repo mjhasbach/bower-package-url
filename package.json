@@ -34,7 +34,6 @@
     "uuid": "2.0.1"
   },
   "scripts": {
-    "test": "mocha test",
-    "release": "release"
+    "test": "mocha test"
   }
 }
