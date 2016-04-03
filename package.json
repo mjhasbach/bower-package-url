@@ -33,7 +33,6 @@
     "uuid": "2.0.1"
   },
   "scripts": {
-    "test": "mocha test",
-    "build": "gulp"
+    "test": "mocha test"
   }
 }
