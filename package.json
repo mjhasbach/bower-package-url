@@ -29,7 +29,6 @@
     "gulp-umd": "0.2.0",
     "gulp-util": "3.0.7",
     "mocha": "2.4.5",
-    "release-script": "1.0.2",
     "run-sequence": "1.1.5",
     "uuid": "2.0.1"
   },
